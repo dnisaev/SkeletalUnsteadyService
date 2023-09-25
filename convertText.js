@@ -8,9 +8,13 @@ const convertText = (string) => {
   }
 }
 
-const convertText = (str) => { 
-  return str === '' ? '' : str[0] === str[0].toUpperCase() ? str : str.length;
-}
+//
+
+// const convertText = (str) => { 
+//   return str === '' ? '' : str[0] === str[0].toUpperCase() ? str : str.length;
+// }
+
+//
 
 let string = 'Hello, World!';
 let string2 = 'hello, World!';
